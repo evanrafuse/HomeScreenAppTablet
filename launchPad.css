@@ -1,5 +1,5 @@
 body {
-  /* margin-top: 20vh; */
+  margin-top: 6vh;
   height: 80vh;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin: 20px;
+  margin: 15px;
 }
 .coloumn {
   display: flex;
@@ -25,6 +25,8 @@ a {
   color: rgb(59, 59, 255);
   text-align: center;
   margin: 10px;
+  width: 120px;
+  height: 120px;
 }
 .label {
   font-size: x-large;
